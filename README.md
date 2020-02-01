@@ -1,1 +1,1 @@
-# template
+# ja-blog
